@@ -1,0 +1,11 @@
+curl -X POST \
+  -H "Content-Type: application/json" \
+  -d '{
+    "id": 1,
+    "name": "Ticket 1",
+    "articles": [
+      {
+        "id": 1,
+        "name": "Artículo
+
+        
